@@ -1,5 +1,5 @@
 ---
-title: New York Public Library - "What's on the menu?" Project
+title: "New York Public Library: "What's on the menu?" Project"
 parent: For Citizen Historians
 grand_parent: Active Projects
 has_children: false

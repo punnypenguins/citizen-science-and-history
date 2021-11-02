@@ -1,5 +1,5 @@
 ---
-title: Last Seen - Finding Family After Slavery
+title: "Last Seen: Finding Family After Slavery"
 parent: For Citizen Historians
 grand_parent: Active Projects
 has_children: false

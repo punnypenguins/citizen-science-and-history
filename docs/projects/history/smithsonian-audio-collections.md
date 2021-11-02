@@ -1,5 +1,5 @@
 ---
-title: Smithsonian Institute - Transcribing Audio Collections
+title: "Smithsonian Institute: Transcribing Audio Collections"
 parent: For Citizen Historians
 grand_parent: Active Projects
 has_children: false

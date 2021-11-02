@@ -1,5 +1,5 @@
 ---
-title: - Digital Newberry - Newberry Transcribe
+title: "Digital Newberry: Newberry Transcribe"
 parent: For Citizen Historians
 grand_parent: Active Projects
 has_children: false
