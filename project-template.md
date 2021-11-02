@@ -12,4 +12,9 @@ View the project [**here**]().
 TODO
 
 ### Location
-TODO
+Online
+
+### Runs on:
+- Windows
+- MacOS
+- Linux
