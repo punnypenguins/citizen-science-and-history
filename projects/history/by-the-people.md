@@ -1,6 +1,7 @@
 ---
 title: Library of Congress - By the People
 parent: For Citizen Historians
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://crowd.loc.gov/

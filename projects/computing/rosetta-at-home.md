@@ -1,10 +1,11 @@
 ---
 title: Rosetta@home
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: http://boinc.bakerlab.org/rosetta/
-tags: science biology research distributed-computing medicine medical hiv cancer malaria alzheimers 
+tags: science biology research distributed-computing medicine medical hiv cancer malaria alzheimers
 ---
 
 View the project [**here**](http://boinc.bakerlab.org/rosetta/).

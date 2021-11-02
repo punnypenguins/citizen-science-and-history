@@ -1,6 +1,7 @@
 ---
 title: Fix It+ Project - American Archive of Public Broadcasting
 parent: For Citizen Historians
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: http://fixitplus.americanarchive.org/

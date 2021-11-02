@@ -1,6 +1,7 @@
 ---
 title: Freedom on the Move
 parent: For Citizen Historians
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://freedomonthemove.org/

@@ -1,6 +1,7 @@
 ---
 title: Smithsonian Institute - Transcribing Audio Collections
-parent: TODO - either For Citizen Historians or For Citizen Scientists
+parent: For Citizen Historians
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://transcription.si.edu/audioinstructions

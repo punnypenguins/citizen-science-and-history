@@ -1,6 +1,7 @@
 ---
 title: Stanford University Archives
 parent: For Citizen Historians
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://www.fromthepage.com/stanforduniversityarchives

@@ -1,10 +1,11 @@
 ---
 title: ClimatePrediction.net
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: https://www.climateprediction.net/
-tags: online distributed-computing climate weather environment science 
+tags: online distributed-computing climate weather environment science
 ---
 
 View the project [**here**](https://www.climateprediction.net/).

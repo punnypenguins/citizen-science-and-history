@@ -1,6 +1,7 @@
 ---
 title: Papers of the War Department
 parent: For Citizen Historians
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://wardepartmentpapers.org/s/home/page/home

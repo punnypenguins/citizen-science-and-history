@@ -1,5 +1,6 @@
 ---
 title: For Citizen Scientists
+parent:  Active Projects
 has_children: true
 nav_order: 2
 has_toc: false

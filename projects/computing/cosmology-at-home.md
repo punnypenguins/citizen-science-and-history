@@ -1,10 +1,11 @@
 ---
 title: Cosmology@Home
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: http://www.cosmologyathome.org/
-tags: science astronomy astrophysics cosmology universe space distributed-computing data research particles 
+tags: science astronomy astrophysics cosmology universe space distributed-computing data research particles
 ---
 
 View the project [**here**](http://www.cosmologyathome.org/).

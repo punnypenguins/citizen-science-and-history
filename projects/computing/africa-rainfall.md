@@ -1,6 +1,7 @@
 ---
 title: Africa Rainfall Project
-parent: TODO - either For Citizen Historians or For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: https://www.worldcommunitygrid.org/research/arp1/overview.do

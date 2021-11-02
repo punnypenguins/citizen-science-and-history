@@ -1,7 +1,8 @@
 ---
 title: For Citizen Historians
+parent:  Active Projects
 has_children: true
-nav_order: 2
+nav_order: []
 has_toc: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Smash Childhood Cancer (project is intermittent)
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: https://www.worldcommunitygrid.org/research/scc1/overview.do

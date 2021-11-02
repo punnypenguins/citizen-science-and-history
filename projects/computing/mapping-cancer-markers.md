@@ -1,10 +1,11 @@
 ---
 title: Mapping Cancer Markers
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: http://www.cs.utoronto.ca/~juris/MCM.htm
-tags: science distributed-computing cancer medical medicine biology research data 
+tags: science distributed-computing cancer medical medicine biology research data
 ---
 
 View the project [**here**](http://www.cs.utoronto.ca/~juris/MCM.htm) and [**here**](https://www.worldcommunitygrid.org/research/mcm1/overview.do).

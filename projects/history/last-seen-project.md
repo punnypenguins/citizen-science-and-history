@@ -1,6 +1,7 @@
 ---
 title: Last Seen - Finding Family After Slavery
 parent: For Citizen Historians
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: http://informationwanted.org/

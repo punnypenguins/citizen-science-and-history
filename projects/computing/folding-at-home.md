@@ -1,6 +1,7 @@
 ---
 title: Folding@Home
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: https://foldingathome.org/home/

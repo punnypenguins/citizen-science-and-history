@@ -1,6 +1,7 @@
 ---
 title: GPUGRID.net
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: http://www.ps3grid.net/

@@ -1,10 +1,11 @@
 ---
 title: MilkyWay@Home
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: https://milkyway.cs.rpi.edu/milkyway/
-tags: science distributed-computing astronomy astrophysics physics cosmology data modeling 
+tags: science distributed-computing astronomy astrophysics physics cosmology data modeling
 ---
 
 View the project [**here**](https://milkyway.cs.rpi.edu/milkyway/).

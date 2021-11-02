@@ -1,6 +1,7 @@
 ---
 title: TODO
-parent: TODO - either For Citizen Historians or For Citizen Scientists
+parent: TODO
+grand_parent: TODO
 has_children: false
 nav_order: []
 link:

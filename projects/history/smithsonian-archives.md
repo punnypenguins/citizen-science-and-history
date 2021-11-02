@@ -1,6 +1,7 @@
 ---
 title: Smithsonian National Archives
 parent: For Citizen Historians
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://transcription.si.edu/

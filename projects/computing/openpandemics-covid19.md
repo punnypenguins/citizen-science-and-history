@@ -1,10 +1,11 @@
 ---
 title: OpenPandemics - COVID-19*
-parent: For Citizen Scientists
+parent: Distributed Computing
+grand-parent: Active Projects
 has_children: false
 nav_order: []
 link: https://www.worldcommunitygrid.org/research/opn1/overview.do
-tags: pandemic covid covid-19 sars-cov-2 coronavirus epidemic epidemiology science biology medical data modeling research simulations medicine 
+tags: pandemic covid covid-19 sars-cov-2 coronavirus epidemic epidemiology science biology medical data modeling research simulations medicine
 ---
 
 View the project [**here**](https://www.worldcommunitygrid.org/research/opn1/overview.do).
