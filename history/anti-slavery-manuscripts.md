@@ -4,7 +4,7 @@ parent: For Citizen Historians
 has_children: false
 nav_order: []
 link: https://freedomonthemove.org/
-tags: racism america black-history underground-railroad online records
+tags: racism america black-history underground-railroad online records history-projects
 ---
 
 [View the project here](link: https://freedomonthemove.org/).

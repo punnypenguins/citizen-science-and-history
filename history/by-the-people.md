@@ -4,7 +4,7 @@ parent: For Citizen Historians
 has_children: false
 nav_order: []
 link: https://crowd.loc.gov/
-tags: congress government online library-of-congress government transcription tagging reviewing
+tags: congress government online library-of-congress government transcription tagging reviewing history-projects
 ---
 
 View the project [**here**](https://crowd.loc.gov/).

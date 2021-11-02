@@ -4,7 +4,7 @@ parent: For Citizen Historians
 has_children: false
 nav_order: []
 link: https://diyhistory.lib.uiowa.edu/
-tags: university library Iowa transcribing tagging commenting online
+tags: university library Iowa transcribing tagging commenting online history-projects
 ---
 
 View the project [**here**](https://diyhistory.lib.uiowa.edu/).
