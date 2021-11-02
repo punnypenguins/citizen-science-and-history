@@ -6,4 +6,4 @@ nav_order: []
 has_toc: false
 ---
 
-This section contains all active projects that use volunteers' computer power to help run enormous calculations and process data sets.
+This section contains all active projects that use volunteers' computer power to help run enormous calculations and process data sets for medical research, NASA, and much more. 
