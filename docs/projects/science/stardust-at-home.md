@@ -1,11 +1,11 @@
 ---
 title: Stardust@home
-parent: TODO
-grand_parent: TODO
+parent: For Citizen Science
+grand_parent: Active Projects 
 has_children: false
 nav_order: []
 link: https://stardustathome.ssl.berkeley.edu/about/stardusthome/
-tags:
+tags: astronomy science astrophysics cosmology research space universe physics
 ---
 
 View the project [**here**](https://stardustathome.ssl.berkeley.edu/about/stardusthome/).
