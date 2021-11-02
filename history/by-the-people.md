@@ -1,5 +1,5 @@
 ---
-title: Library of Congress: By the People
+title: Library of Congress - By the People
 parent: For Citizen Historians
 has_children: false
 nav_order: []
