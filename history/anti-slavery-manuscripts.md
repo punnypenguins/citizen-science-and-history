@@ -3,6 +3,7 @@ title: Freedom on the Move
 parent: For Citizen Historians
 has_children: false
 nav_order: []
+link: link: https://freedomonthemove.org/
 tags: racism america black-history underground-railroad online records
 ---
 
