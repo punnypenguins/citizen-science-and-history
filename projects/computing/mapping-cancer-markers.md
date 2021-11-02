@@ -1,7 +1,7 @@
 ---
 title: Mapping Cancer Markers
 parent: Distributed Computing
-grand-parent: Active Projects
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: http://www.cs.utoronto.ca/~juris/MCM.htm

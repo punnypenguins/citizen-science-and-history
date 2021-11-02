@@ -1,7 +1,7 @@
 ---
 title: OpenPandemics - COVID-19*
 parent: Distributed Computing
-grand-parent: Active Projects
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://www.worldcommunitygrid.org/research/opn1/overview.do

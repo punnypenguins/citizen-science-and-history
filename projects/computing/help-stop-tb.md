@@ -1,7 +1,7 @@
 ---
 title: Help Stop TB
 parent: Distributed Computing
-grand-parent: Active Projects
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://www.worldcommunitygrid.org/research/hst1/overview.do

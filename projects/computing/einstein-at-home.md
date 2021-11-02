@@ -1,7 +1,7 @@
 ---
 title: Einstein@Home
 parent: Distributed Computing
-grand-parent: Active Projects
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://einsteinathome.org/

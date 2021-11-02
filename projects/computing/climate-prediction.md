@@ -1,7 +1,7 @@
 ---
 title: ClimatePrediction.net
 parent: Distributed Computing
-grand-parent: Active Projects
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: https://www.climateprediction.net/

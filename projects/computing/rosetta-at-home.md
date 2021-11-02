@@ -1,7 +1,7 @@
 ---
 title: Rosetta@home
 parent: Distributed Computing
-grand-parent: Active Projects
+grand_parent: Active Projects
 has_children: false
 nav_order: []
 link: http://boinc.bakerlab.org/rosetta/
