@@ -1,5 +1,5 @@
 ---
-title: Einstein@Home
+title: "Einstein@Home"
 parent: Distributed Computing
 grand_parent: Active Projects
 has_children: false

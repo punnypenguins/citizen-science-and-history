@@ -1,5 +1,5 @@
 ---
-title: Rosetta@home
+title: "Rosetta@home"
 parent: Distributed Computing
 grand_parent: Active Projects
 has_children: false

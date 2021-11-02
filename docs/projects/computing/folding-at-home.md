@@ -1,5 +1,5 @@
 ---
-title: Folding@Home
+title: "Folding@Home"
 parent: Distributed Computing
 grand_parent: Active Projects
 has_children: false

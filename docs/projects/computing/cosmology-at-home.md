@@ -1,5 +1,5 @@
 ---
-title: Cosmology@Home
+title: "Cosmology@Home"
 parent: Distributed Computing
 grand_parent: Active Projects
 has_children: false

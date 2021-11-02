@@ -1,5 +1,5 @@
 ---
-title: GPUGRID.net
+title: "GPUGRID.net"
 parent: Distributed Computing
 grand_parent: Active Projects
 has_children: false

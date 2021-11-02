@@ -1,5 +1,5 @@
 ---
-title: OpenPandemics - COVID-19*
+title: "OpenPandemics: COVID-19*"
 parent: Distributed Computing
 grand_parent: Active Projects
 has_children: false

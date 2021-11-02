@@ -1,5 +1,5 @@
 ---
-title: ClimatePrediction.net
+title: "ClimatePrediction.net"
 parent: Distributed Computing
 grand_parent: Active Projects
 has_children: false

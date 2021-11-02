@@ -1,5 +1,5 @@
 ---
-title: Smash Childhood Cancer (project is intermittent)
+title: "Smash Childhood Cancer (project is intermittent)"
 parent: Distributed Computing
 grand_parent: Active Projects
 has_children: false
